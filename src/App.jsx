@@ -4,6 +4,7 @@ export default function App() {
   return (
     <div>
       <Page1/>
+      "Hello World"
     </div>
   )
 }
